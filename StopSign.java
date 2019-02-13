@@ -6,6 +6,7 @@ public class StopSign {
       stopSign();
       System.out.println();
       hat();
+      System.out.println("That's it for today, folks!");
    }
    
    public static void egg() {
@@ -43,4 +44,5 @@ public class StopSign {
    public static void line() {
       System.out.println("+--------+");
    }
+
 }
