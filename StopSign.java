@@ -7,6 +7,7 @@ public class StopSign {
       System.out.println();
       hat();
       System.out.println("End of code.");
+      System.out.println("hello world!");
    }
    
    public static void egg() {
